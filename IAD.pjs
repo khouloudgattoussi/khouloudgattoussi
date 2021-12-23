@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{D5E3C849-80E2-43A4-8183-082FB29E7F72}">
+	<children>
+		<folder name="GlobalIAD">
+			<child name="GlobalIADCommun" key="{184BFF59-8D88-4D09-B505-6C992ED5289F}" path="..\IAD FRANCE\Connexion\GlobalIADCommun.mds" />
+		</folder>
+		<child name="REALESTATE" key="{72DD3A00-1ECC-4380-8E5E-E6455366E7AA}" path="..\..\..\Desktop\REALESTATE.mds" />
+	</children>
+	<testItems key="{4732C406-2841-4241-A39C-DDE1E699E6F5}">
+		<children>
+			<testItem key="{72DD3A00-1ECC-4380-8E5E-E6455366E7AA}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{184BFF59-8D88-4D09-B505-6C992ED5289F}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{03A3C585-A508-4249-9A6F-8FE328655FC9}" />
+	<analysis key="{297E7C90-AAA1-4D5C-8331-41CCAEF6E1AB}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>
